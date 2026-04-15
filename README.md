@@ -20,10 +20,10 @@ The dashboard is designed to help in understanding trends, comparing performance
 ## 📷 Dashboard Preview
 
 ### 🔹 Business Performance Overview
-![Dashboard 1](./Business_performance_analysis.png)
+![Dashboard 1](./Business_performance.png)
 
 ### 🔹 Customer & Operations Insights
-![Dashboard 2](./Business_performance_2.png)
+![Dashboard 2](./Business_perfromance_2.png)
 
 ---
 
